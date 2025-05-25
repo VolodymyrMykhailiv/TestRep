@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EleksInternshipProj.WebApi", "EleksInternshipProj.Server\EleksInternshipProj.WebApi.csproj", "{F42D60D4-7283-48C2-915D-C948A5A59A66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EleksInternshipProj.WebApi", "EleksInternshipProj.WebApi\EleksInternshipProj.WebApi.csproj", "{F42D60D4-7283-48C2-915D-C948A5A59A66}"
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "eleksinternshipproj.client", "eleksinternshipproj.client\eleksinternshipproj.client.esproj", "{D3437D4B-ACB7-4D30-A861-23F46B93B717}"
 EndProject
